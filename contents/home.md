@@ -17,6 +17,17 @@ My technical skills include Python and knowledge graph technologies, and I am pu
 
 #### Contact
 <p>Email: golsa.heidary@gmail.com </p>
+<p>
+  <i class="fab fa-linkedin"></i>
+  <a href="https://www.linkedin.com/in/golsa-heidari/" target="_blank">LinkedIn</a>
+</p>
+
+<p>
+  <i class="fab fa-github"></i>
+  <a href="https://github.com/GolsaHeidari" target="_blank">GitHub</a>
+</p>
+
+
 <p>LinkedIn: <a href="https://www.linkedin.com/in/golsa-heidari/" target="_blank">golsa-heidari</a></p>
 <p>GitHub: <a href="https://github.com/GolsaHeidari" target="_blank">GolsaHeidari</a></p>
 
