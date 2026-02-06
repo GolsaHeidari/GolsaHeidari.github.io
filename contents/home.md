@@ -14,8 +14,8 @@ My technical skills include Python and knowledge graph technologies, and I am pu
 Email: golsa.heidary@gmail.com
 
 #### Education
-M.S., Computer Engineering, Najafabad University
-B.S., Computer Engineering, Isfahan University
+<p> M.S. Computer Engineering, Najafabad University </p>
+<p> </p>B.S. Computer Engineering, Isfahan University </p>
 
 #### Research Interests
 Knowledge Graphs; Semantic Technologies; Information Retrieval
